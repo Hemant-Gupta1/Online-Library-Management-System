@@ -1,4 +1,4 @@
-# Online-Library-Management-System (LOMS)
+# Online-Library-Management-System (OLMS)
 
 # GitHub Link
 https://github.com/Hemant-Gupta1/Online-Library-Management-System

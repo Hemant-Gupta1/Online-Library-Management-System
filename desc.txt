@@ -1,3 +1,2 @@
-Developed a secure, concurrent Library Management System in C using TCP/IP socket programming, ensuring real-time book management and user interactions with robust error handling.
-Leveraged POSIX threads, semaphores, and file locking to handle multiple client connections, preventing data races and ensuring consistency during concurrent operations.
-Employed system calls and file handling for persistent data storage and retrieval, managing book and user records with binary files to ensure data integrity.
+Developed a secure Library Management System in C using TCP/IP socket programming, enabling real-time book management and concurrent user interactions with robust error handling, POSIX threads, semaphores, and file locking for data consistency across multiple client connections.
+Utilized system calls and binary file handling for persistent data storage, ensuring integrity in managing book and user records during concurrent operations.
